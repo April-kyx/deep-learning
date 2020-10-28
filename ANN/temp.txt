@@ -1,0 +1,3 @@
+这里是自己搭建的人工神经网络ANN，用的numpy库
+参考博客https://blog.csdn.net/u013733326/article/details/79702148
+也是吴恩达的课后作业的一个练习，用来学习
